@@ -1,0 +1,36 @@
+<!-- About-->
+<section class="page-section" id="about">
+    <div class="container">
+    {% for main_item in main_items %}
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">About</h2>
+            <h3 class="section-subheading text-muted">{{ main_item.about_title }}</h3>
+        </div>
+    {% endfor %}
+        <ul class="timeline">
+            {% for about in abouts %}
+                {% if forloop.counter|divisibleby:2 %}
+                    {# Если индекс делится на 2 без остатка, значит, это четный индекс #}
+                    <li class="timeline-inverted">
+                {% else %}
+                    {# Иначе это нечетный индекс #}
+                    <li>
+                {% endif %}
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{ about.image.url }}" alt="..." /></div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>{{ about.date }}</h4>
+                            <h4 class="subheading">{{ about.title }}</h4>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">{{ about.description }}</p></div>
+                    </div>
+                </li>
+            {% endfor %}
+            <li class="timeline-inverted">
+                <div class="timeline-image">
+                    <h4>Be Part<br/>Of Our<br/>Story!</h4>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>

@@ -1,0 +1,2290 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-01-16T20:46:41.673Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-01-17T09:26:38.898Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-01-17T09:42:02.334Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-01-17T09:43:23.940Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-01-17T10:38:46.059Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-01-17T10:39:02.312Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\", \"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-01-17T10:41:40.437Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-01-17T10:42:03.494Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-01-17T10:42:09.618Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\", \"\\u0422\\u0435\\u043a\\u0441\\u0442 \\u043a\\u043d\\u043e\\u043f\\u043a\\u0438\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-01-17T10:42:18.215Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Header Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442 \\u043a\\u043d\\u043e\\u043f\\u043a\\u0438\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-01-17T11:09:48.116Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Navbar Info",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-01-17T11:10:07.091Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Navbar Info",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-01-17T11:14:47.910Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Navbar Info",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-01-17T11:22:36.627Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "E-Commerce",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-01-17T11:22:46.517Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Responsive Design",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-01-17T11:22:54.522Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Web Security",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-01-17T11:24:38.804Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "E-Commerce22",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2024-01-17T11:24:45.299Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Responsive Design2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2024-01-17T11:24:55.592Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "E-Commerce",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2024-01-17T11:24:59.004Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Responsive Design",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2024-01-17T11:26:40.344Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "2322",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2024-01-17T11:26:50.784Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "2322",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2024-01-17T11:33:35.407Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Threads",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2024-01-17T11:33:55.434Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Explore",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2024-01-17T11:34:09.065Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Finish",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2024-01-17T11:34:24.259Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "4",
+        "object_repr": "Lines",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2024-01-17T11:34:40.947Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "5",
+        "object_repr": "Southwest",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2024-01-17T11:34:53.079Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "6",
+        "object_repr": "Window",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2024-01-17T11:44:56.452Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "2009-2011",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2024-01-17T11:45:12.897Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "March 2011",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2024-01-17T11:45:31.042Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "December 2012",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2024-01-17T11:45:45.853Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "December 2012",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2024-01-17T11:46:12.162Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "July 2014",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u0430\\u0442\\u0430\", \"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\", \"\\u0424\\u043e\\u0442\\u043e\", \"Order\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2024-01-17T11:47:49.842Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "December 2012",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2024-01-17T11:48:44.054Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "2009-2011",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e/\\u041d\\u0435\\u0434\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2024-01-17T11:48:51.582Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "2009-2011",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e/\\u041d\\u0435\\u0434\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2024-01-17T11:49:02.755Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "2023-12-16",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2024-01-17T11:50:41.640Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "6",
+        "object_repr": "January 2017",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2024-01-17T11:52:33.433Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "2023-12-16",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2024-01-17T11:52:33.436Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "6",
+        "object_repr": "January 2017",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2024-01-17T11:59:08.952Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Kay Garland",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2024-01-17T11:59:31.073Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Larry Parker",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2024-01-17T11:59:58.359Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Mike Pertersen",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2024-01-17T12:07:08.925Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Creative Market",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2024-01-17T12:07:26.216Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "Design Modo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2024-01-17T12:07:39.009Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "3",
+        "object_repr": "Envato",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2024-01-17T12:07:49.011Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "4",
+        "object_repr": "Theme Forest",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2024-01-17T12:08:21.777Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "5",
+        "object_repr": "Creative Market",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2024-01-17T12:08:29.791Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "5",
+        "object_repr": "Creative Market",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2024-01-17T12:19:10.083Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2024-01-17T12:19:40.531Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2024-01-17T12:20:12.734Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2024-01-17T12:20:57.530Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2024-01-17T12:21:08.281Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2024-01-17T12:21:19.079Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2024-01-17T12:21:34.846Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2024-01-17T12:21:57.536Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2024-01-17T12:22:07.474Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2024-01-17T12:24:05.631Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2024-01-17T12:24:14.956Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Footer Items",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Copyright text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2024-01-17T12:45:18.576Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "1",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2024-01-17T13:11:45.498Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "1",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2024-01-17T15:37:52.896Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "1",
+        "object_repr": "Main Site Items",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2024-01-17T15:39:56.704Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "1",
+        "object_repr": "Main Site Items",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2024-01-17T15:55:22.905Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "1",
+        "object_repr": "Threads",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2024-01-17T15:58:32.031Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "2",
+        "object_repr": "Explore",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2024-01-17T16:20:09.427Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "2",
+        "object_repr": "Explore",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e/\\u041d\\u0435\\u0434\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2024-01-17T16:29:18.192Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "2",
+        "object_repr": "Explore",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e/\\u041d\\u0435\\u0434\\u043e\\u0441\\u0442\\u0443\\u043f\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2024-01-17T16:33:49.081Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "2",
+        "object_repr": "Explore",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2024-01-17T16:49:58.814Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "3",
+        "object_repr": "Finish",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2024-01-17T16:50:34.152Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "4",
+        "object_repr": "Lines",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2024-01-17T16:50:34.937Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "4",
+        "object_repr": "Lines",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2024-01-17T16:51:23.620Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "5",
+        "object_repr": "Southwest",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2024-01-17T16:52:09.388Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "1",
+        "object_repr": "Threads",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2024-01-17T16:52:32.258Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "6",
+        "object_repr": "Window",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2024-01-17T16:54:52.361Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "6",
+        "object_repr": "Window",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Client\", \"Category\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2024-01-17T16:55:17.265Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "4",
+        "object_repr": "Lines",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Project Title\", \"Client\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+        "action_time": "2024-01-17T17:33:14.419Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "2",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+        "action_time": "2024-01-17T17:34:18.838Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "2",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+        "action_time": "2024-01-17T17:38:32.365Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "5",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+        "action_time": "2024-01-17T17:38:32.368Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "4",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+        "action_time": "2024-01-17T17:50:39.214Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "6",
+        "object_repr": "df - +380663333333",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+        "action_time": "2024-01-17T17:50:48.058Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "6",
+        "object_repr": "df - +380663333333",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+        "action_time": "2024-01-17T17:50:50.805Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "6",
+        "object_repr": "df - +380663333333",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+        "action_time": "2024-01-17T17:51:02.984Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "6",
+        "object_repr": "df - +380663333333",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+        "action_time": "2024-01-17T17:51:07.191Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "6",
+        "object_repr": "df - +380663333333",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u043d\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+        "action_time": "2024-01-17T17:51:14.090Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "6",
+        "object_repr": "df - +380663333333",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+        "action_time": "2024-01-17T17:51:14.092Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "3",
+        "object_repr": "Window - +380662984849",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+        "action_time": "2024-01-17T17:51:14.094Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "2",
+        "object_repr": "Vlad - +380662984849",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add header",
+        "content_type": 7,
+        "codename": "add_header"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change header",
+        "content_type": 7,
+        "codename": "change_header"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete header",
+        "content_type": 7,
+        "codename": "delete_header"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view header",
+        "content_type": 7,
+        "codename": "view_header"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add navbar",
+        "content_type": 8,
+        "codename": "add_navbar"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change navbar",
+        "content_type": 8,
+        "codename": "change_navbar"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete navbar",
+        "content_type": 8,
+        "codename": "delete_navbar"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view navbar",
+        "content_type": 8,
+        "codename": "view_navbar"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add service",
+        "content_type": 9,
+        "codename": "add_service"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change service",
+        "content_type": 9,
+        "codename": "change_service"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete service",
+        "content_type": 9,
+        "codename": "delete_service"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view service",
+        "content_type": 9,
+        "codename": "view_service"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add portfolio",
+        "content_type": 10,
+        "codename": "add_portfolio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change portfolio",
+        "content_type": 10,
+        "codename": "change_portfolio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete portfolio",
+        "content_type": 10,
+        "codename": "delete_portfolio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view portfolio",
+        "content_type": 10,
+        "codename": "view_portfolio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add about",
+        "content_type": 11,
+        "codename": "add_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change about",
+        "content_type": 11,
+        "codename": "change_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete about",
+        "content_type": 11,
+        "codename": "delete_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view about",
+        "content_type": 11,
+        "codename": "view_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add team",
+        "content_type": 12,
+        "codename": "add_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change team",
+        "content_type": 12,
+        "codename": "change_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete team",
+        "content_type": 12,
+        "codename": "delete_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view team",
+        "content_type": 12,
+        "codename": "view_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add client",
+        "content_type": 13,
+        "codename": "add_client"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change client",
+        "content_type": 13,
+        "codename": "change_client"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete client",
+        "content_type": 13,
+        "codename": "delete_client"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view client",
+        "content_type": 13,
+        "codename": "view_client"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add footer",
+        "content_type": 14,
+        "codename": "add_footer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change footer",
+        "content_type": 14,
+        "codename": "change_footer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete footer",
+        "content_type": 14,
+        "codename": "delete_footer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view footer",
+        "content_type": 14,
+        "codename": "view_footer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add contact us",
+        "content_type": 15,
+        "codename": "add_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change contact us",
+        "content_type": 15,
+        "codename": "change_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete contact us",
+        "content_type": 15,
+        "codename": "delete_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view contact us",
+        "content_type": 15,
+        "codename": "view_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add main items",
+        "content_type": 16,
+        "codename": "add_mainitems"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change main items",
+        "content_type": 16,
+        "codename": "change_mainitems"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete main items",
+        "content_type": 16,
+        "codename": "delete_mainitems"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view main items",
+        "content_type": 16,
+        "codename": "view_mainitems"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+        "name": "Can add portfolio modal",
+        "content_type": 17,
+        "codename": "add_portfoliomodal"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+        "name": "Can change portfolio modal",
+        "content_type": 17,
+        "codename": "change_portfoliomodal"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+        "name": "Can delete portfolio modal",
+        "content_type": 17,
+        "codename": "delete_portfoliomodal"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+        "name": "Can view portfolio modal",
+        "content_type": 17,
+        "codename": "view_portfoliomodal"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$FrlB0qdlYRenM4bV9tcEgm$zU13f9XMUUWbY7gjqPoGhpOhzbxV0OsorvTtdjMhXBo=",
+        "last_login": "2024-01-17T15:37:05.245Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-01-16T20:45:14.069Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "brand",
+        "model": "header"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "brand",
+        "model": "navbar"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "brand",
+        "model": "service"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "brand",
+        "model": "portfolio"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "brand",
+        "model": "about"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "brand",
+        "model": "team"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "brand",
+        "model": "client"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "brand",
+        "model": "footer"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "brand",
+        "model": "contactus"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "brand",
+        "model": "mainitems"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+        "app_label": "brand",
+        "model": "portfoliomodal"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8vfgg8l181jsn3z5fsncgltz3xo83tt7",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyGFLlQ8evcbyO4CUjWQlPZk_Hdp0oMeZ96beQuP25r91uLi5yAuQonTb0fIz1h2EB5Y7lVyLesyk9wVedAmbzXE1_Vw_w4yttzXME4W3eC0QsfGaASrEjAzqUQAoOGMkRE0jczO9pScSaS7P6ghTOLzBdTmN7k:1rPqJE:hDv-1jyfRQJpmv79_1ABWXI0EA3TTCw7hDb5ydPT8xc",
+        "expire_date": "2024-01-30T20:45:20.422Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "h4ckrhox6gxbl9banixgjqd2gs04z7y3",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyGFLlQ8evcbyO4CUjWQlPZk_Hdp0oMeZ96beQuP25r91uLi5yAuQonTb0fIz1h2EB5Y7lVyLesyk9wVedAmbzXE1_Vw_w4yttzXME4W3eC0QsfGaASrEjAzqUQAoOGMkRE0jczO9pScSaS7P6ghTOLzBdTmN7k:1rQ7yT:iopGnrBIXf2WZIpOYVEANmDqpgqUO24SasipmG9PYQQ",
+        "expire_date": "2024-01-31T15:37:05.248Z"
+    }
+},
+{
+    "model": "brand.header",
+    "pk": 1,
+    "fields": {
+        "title": "Welcome To Our Studio!",
+        "text": "IT'S NICE TO MEET YOU",
+        "button_text": "TELL ME MORE",
+        "button_link": "https://google.com",
+        "image": "header_images/header-bg_xMRDu8t.jpg"
+    }
+},
+{
+    "model": "brand.service",
+    "pk": 1,
+    "fields": {
+        "title": "E-Commerce",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.",
+        "order": 1,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.service",
+    "pk": 2,
+    "fields": {
+        "title": "Responsive Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.",
+        "order": 2,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.service",
+    "pk": 3,
+    "fields": {
+        "title": "Web Security",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.",
+        "order": 3,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.portfolio",
+    "pk": 1,
+    "fields": {
+        "title": "Threads",
+        "post": "Illustration",
+        "image": "portfolio_images/1-thumbnail.jpg",
+        "order": 1,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.portfolio",
+    "pk": 2,
+    "fields": {
+        "title": "Explore",
+        "post": "Graphic Design",
+        "image": "portfolio_images/2-thumbnail.jpg",
+        "order": 2,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.portfolio",
+    "pk": 3,
+    "fields": {
+        "title": "Finish",
+        "post": "Identity",
+        "image": "portfolio_images/3-thumbnail.jpg",
+        "order": 3,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.portfolio",
+    "pk": 4,
+    "fields": {
+        "title": "Lines",
+        "post": "Branding",
+        "image": "portfolio_images/4-thumbnail.jpg",
+        "order": 4,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.portfolio",
+    "pk": 5,
+    "fields": {
+        "title": "Southwest",
+        "post": "Website Design",
+        "image": "portfolio_images/5-thumbnail.jpg",
+        "order": 5,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.portfolio",
+    "pk": 6,
+    "fields": {
+        "title": "Window",
+        "post": "Photography",
+        "image": "portfolio_images/6-thumbnail.jpg",
+        "order": 6,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.about",
+    "pk": 1,
+    "fields": {
+        "date": "2009-2011",
+        "title": "Our Humble Beginnings",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!",
+        "image": "about_images/1.jpg",
+        "order": 1,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.about",
+    "pk": 2,
+    "fields": {
+        "date": "March 2011",
+        "title": "An Agency is Born",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!",
+        "image": "about_images/2.jpg",
+        "order": 2,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.about",
+    "pk": 3,
+    "fields": {
+        "date": "July 2014",
+        "title": "Phase Two Expansion",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!",
+        "image": "about_images/4_CHR4GEj.jpg",
+        "order": 4,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.about",
+    "pk": 4,
+    "fields": {
+        "date": "December 2012",
+        "title": "Transition to Full Service",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!",
+        "image": "about_images/3_oedmstL.jpg",
+        "order": 3,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.team",
+    "pk": 1,
+    "fields": {
+        "name": "Kay Garland",
+        "post": "Lead Designer",
+        "twitter": "https://twitter.com/",
+        "facebook": "https://www.facebook.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "image": "team_images/2.jpg",
+        "order": 1,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.team",
+    "pk": 2,
+    "fields": {
+        "name": "Larry Parker",
+        "post": "Lead Marketer",
+        "twitter": "https://twitter.com/",
+        "facebook": "https://www.facebook.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "image": "team_images/1.jpg",
+        "order": 2,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.team",
+    "pk": 3,
+    "fields": {
+        "name": "Mike Pertersen",
+        "post": "Lead Developer",
+        "twitter": "https://twitter.com/",
+        "facebook": "https://www.facebook.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "image": "team_images/3.jpg",
+        "order": 3,
+        "is_visible": true
+    }
+},
+{
+    "model": "brand.client",
+    "pk": 1,
+    "fields": {
+        "company": "Creative Market",
+        "image": "client_images/creative-market.jpg",
+        "order": 1,
+        "is_visible": true,
+        "link": "https://google.com"
+    }
+},
+{
+    "model": "brand.client",
+    "pk": 2,
+    "fields": {
+        "company": "Design Modo",
+        "image": "client_images/designmodo.jpg",
+        "order": 2,
+        "is_visible": true,
+        "link": "https://google.com"
+    }
+},
+{
+    "model": "brand.client",
+    "pk": 3,
+    "fields": {
+        "company": "Envato",
+        "image": "client_images/envato.jpg",
+        "order": 3,
+        "is_visible": true,
+        "link": "https://google.com"
+    }
+},
+{
+    "model": "brand.client",
+    "pk": 4,
+    "fields": {
+        "company": "Theme Forest",
+        "image": "client_images/themeforest.jpg",
+        "order": 4,
+        "is_visible": true,
+        "link": "https://google.com"
+    }
+},
+{
+    "model": "brand.footer",
+    "pk": 1,
+    "fields": {
+        "copyright_text": "Copyright � Brand 2023",
+        "twitter": "https://twitter.com/",
+        "facebook": "https://www.facebook.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "privacy_police": "https://google.com",
+        "tou": "https://google.com"
+    }
+},
+{
+    "model": "brand.mainitems",
+    "pk": 1,
+    "fields": {
+        "services_title": "Lorem ipsum dolor sit amet consectetur.",
+        "portfolio_title": "Lorem ipsum dolor sit amet consectetur.",
+        "about_title": "Lorem ipsum dolor sit amet consectetur.",
+        "team_title": "Lorem ipsum dolor sit amet consectetur.",
+        "team_description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.",
+        "contact_title": "Lorem ipsum dolor sit amet consectetur."
+    }
+},
+{
+    "model": "brand.portfoliomodal",
+    "pk": 1,
+    "fields": {
+        "name": "Threads",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "portfolio_modal_images/1-full.jpg",
+        "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+        "client": "Threads",
+        "category": "Illustration",
+        "is_visible": true,
+        "order": 1
+    }
+},
+{
+    "model": "brand.portfoliomodal",
+    "pk": 2,
+    "fields": {
+        "name": "Explore",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "portfolio_modal_images/2-full.jpg",
+        "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+        "client": "Explore",
+        "category": "Graphic Design",
+        "is_visible": true,
+        "order": 2
+    }
+},
+{
+    "model": "brand.portfoliomodal",
+    "pk": 3,
+    "fields": {
+        "name": "Finish",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "portfolio_modal_images/3-full.jpg",
+        "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+        "client": "Finish",
+        "category": "Identity",
+        "is_visible": true,
+        "order": 3
+    }
+},
+{
+    "model": "brand.portfoliomodal",
+    "pk": 4,
+    "fields": {
+        "name": "Lines",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "portfolio_modal_images/4-full.jpg",
+        "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+        "client": "Lines",
+        "category": "Branding",
+        "is_visible": true,
+        "order": 4
+    }
+},
+{
+    "model": "brand.portfoliomodal",
+    "pk": 5,
+    "fields": {
+        "name": "Southwest",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "portfolio_modal_images/5-full.jpg",
+        "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+        "client": "Southwest",
+        "category": "Website Design",
+        "is_visible": true,
+        "order": 5
+    }
+},
+{
+    "model": "brand.portfoliomodal",
+    "pk": 6,
+    "fields": {
+        "name": "Window",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "portfolio_modal_images/6-full.jpg",
+        "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+        "client": "Window",
+        "category": "Photography",
+        "is_visible": true,
+        "order": 6
+    }
+}
+]

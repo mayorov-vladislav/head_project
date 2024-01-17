@@ -1,0 +1,35 @@
+<section class="page-section" id="contact">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">CONTACT US</h2>
+            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+        </div>
+
+        <form method="post" action="{% url 'brand:home' %}" id="contactForm">
+            {% csrf_token %}
+
+            <div class="row align-items-stretch mb-5">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input class="form-control" name="name" type="text" placeholder="Ваше имя" required />
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control" name="email" type="email" placeholder="Ваш Email" required />
+                    </div>
+                    <div class="form-group mb-md-0">
+                        <input class="form-control" name="phone" type="tel" placeholder="Ваш телефон" required />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group form-group-textarea mb-md-0">
+                        <textarea class="form-control" name="message" placeholder="Ваше сообщение" required></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <button class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+            </div>
+        </form>
+    </div>
+</section>
+

@@ -1,0 +1,12 @@
+<!-- Masthead-->
+
+{% for header in headers %}
+<header class="masthead" style="background-image:url('{{ header.image.url }}');">
+    <div class="container">
+        <div class="masthead-subheading">{{ header.title }}</div>
+        <div class="masthead-heading text-uppercase">{{ header.text }}</div>
+        <a class="btn btn-primary btn-xl text-uppercase" href="#services">{{ header.button_text }}</a>
+    </div>
+</header>
+
+{% endfor %}

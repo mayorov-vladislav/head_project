@@ -1,0 +1,31 @@
+<!-- Team-->
+<section class="page-section bg-light" id="team">
+    <div class="container">
+    {% for main_item in main_items %}
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
+            <h3 class="section-subheading text-muted">{{ main_item.team_title }}</h3>
+        </div>
+    {% endfor %}
+            <div class="row">
+                {% for team in teams %}
+                    <div class="col-lg-4">
+
+                            <div class="team-member">
+                                <img class="mx-auto rounded-circle" src="{{ team.image.url }}" alt="..." />
+                                <h4>{{ team.name }}</h4>
+                                <p class="text-muted">{{ team.post }}</p>
+                                <a class="btn btn-dark btn-social mx-2" href="{{ team.twitter }}" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-dark btn-social mx-2" href="{{ team.facebook }}" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-dark btn-social mx-2" href="{{ team.linkedin }}" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% for main_item in main_items %}
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">{{ main_item.team_description }}</p></div>
+            </div>
+        {% endfor %}
+    </div>
+</section>
