@@ -25,7 +25,7 @@ DB_URL = os.environ.get('DB_URL')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-brand-c3f857d608f1.herokuapp.com', ]
+ALLOWED_HOSTS = ['django-brand-101037094717.herokuapp.com', ]
 
 
 # Application definition
